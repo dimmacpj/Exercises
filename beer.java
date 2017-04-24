@@ -15,7 +15,7 @@ public class beer {
 				System.out.println(beerNum + " " + word + " of beer on the wall");
 			} else {
 				System.out.println("No more bottles of beer on the wall");
-			}//else􀦳􀺐
-		} //while􁃗􀣍􀦳􀺐
-	} //main􀝛􀝆􀦳􀺐
-} //class􀦳􀺐
+			}//else end
+		} //while end
+	} //main end
+} //class end
